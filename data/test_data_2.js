@@ -1,6 +1,6 @@
 [
 	{
-		"name":"imported box of chocolatess",
+		"name":"imported box of chocolates",
 		"type":"imported",
 		"category": "food",
 		"quantity":"1",
